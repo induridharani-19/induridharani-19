@@ -1,18 +1,24 @@
-# 👨‍💻 Dharani Induri
+# 👋 Hi, I'm Dharani Induri
 
 ### AI & Data Science Student | Full Stack Developer | MERN Stack Enthusiast
 
+---
+
 ## 🚀 About Me
 
-🎓 B.Tech AI & Data Science Student (2027 Batch)
+🎓 I'm a B.Tech student specializing in Artificial Intelligence & Data Science, passionate about developing scalable web applications and AI-driven solutions.
 
-💡 Passionate about Full Stack Development, Artificial Intelligence, and building real-world applications.
+💡 I enjoy solving real-world problems through technology and continuously improving my skills in software development, backend engineering, and modern web technologies.
 
-🔹 Skilled in MERN Stack Development, REST APIs, Database Management, and AI Fundamentals.
+🔹 Strong foundation in Java, Python, JavaScript, SQL, and Data Structures & Algorithms.
 
-🔹 Strong problem-solving skills with Java, Python, SQL, and modern web technologies.
+🔹 Experienced in building full-stack applications using the MERN Stack and RESTful APIs.
 
-🔹 Interested in AI-powered applications, scalable backend systems, cloud deployment, and software engineering.
+🔹 Interested in Artificial Intelligence, Cloud Computing, System Design, and Software Engineering.
+
+🔹 Actively seeking internship and software development opportunities to gain industry experience and contribute to impactful projects.
+
+---
 
 ## 💻 Technical Skills
 
@@ -50,13 +56,12 @@
 * NumPy
 * Pandas
 * OpenCV
-* Machine Learning Basics
+* Machine Learning Fundamentals
 * Prompt Engineering
 
-### Tools & Platforms
+### Tools & Technologies
 
-* Git
-* GitHub
+* Git & GitHub
 * VS Code
 * Postman
 * Firebase
@@ -64,40 +69,60 @@
 * Vercel
 * Render
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 GenAI Placement Management System
 
-* AI-powered placement platform
+An AI-powered placement platform designed to streamline recruitment workflows.
+
+**Key Features**
+
 * Resume Analysis
-* Authentication System
 * Placement Analytics
+* Secure Authentication
+* Student & Recruiter Dashboards
 * MERN Stack Architecture
 
-### 🌾 Satellite Crop Health Monitoring
+### 🌾 Satellite Crop Health Monitoring System
 
-* Crop Disease Prediction
+A smart agriculture platform leveraging AI for crop analysis and disease prediction.
+
+**Key Features**
+
+* Crop Disease Detection
 * Satellite Data Analysis
 * Weather Insights
-* Smart Recommendations
+* Smart Farming Recommendations
 
 ### 🎓 Online Skill Learning Platform
+
+A modern learning management platform for students and instructors.
+
+**Key Features**
 
 * Course Management
 * User Authentication
 * Student Dashboard
-* Admin Panel
+* Admin Controls
 
-## 🧠 DSA & Competitive Programming
+---
+
+## 🧠 Data Structures & Algorithms
+
+Currently focusing on:
 
 * Arrays & Strings
 * Trees & Graphs
 * Dynamic Programming
-* Sliding Window
+* Sliding Window Techniques
 * Recursion & Backtracking
 * SQL Problem Solving
 
-## 📚 Certifications
+---
+
+## 📜 Certifications
 
 * Full Stack Web Development
 * Machine Learning Using Python
@@ -105,23 +130,34 @@
 * Backend Development
 * AI Fundamentals
 
-## 🎯 Career Objective
+---
 
-Seeking opportunities in:
+## 🎯 Career Interests
 
-* Software Development Engineer (SDE)
+I am interested in opportunities related to:
+
+* Software Development Engineering (SDE)
 * Full Stack Development
-* Backend Development
-* AI/ML Engineering
+* Backend Engineering
+* Artificial Intelligence & Machine Learning
 * MERN Stack Development
+
+---
 
 ## 📬 Connect With Me
 
-* Email: induridharani728@gmail.com
-* LinkedIn: www.linkedin.com/in/induri-dharani-450237302
-* GitHub: https://github.com/induridharani-19
-* LeetCode: https://leetcode.com/u/Induri_Dharani/
+📧 Email: **[induridharani728@gmail.com](mailto:induridharani728@gmail.com)**
+
+💼 LinkedIn: **[www.linkedin.com/in/induri-dharani-450237302](http://www.linkedin.com/in/induri-dharani-450237302)**
+
+💻 GitHub: **github.com/induridharani-19**
+
+🧠 LeetCode: **leetcode.com/u/Induri_Dharani**
+
+---
 
 ## 💡 Motto
 
-"Learn. Build. Solve. Grow."
+> "Learn Continuously. Build Consistently. Solve Meaningfully. Grow Relentlessly."
+
+⭐ Thank you for visiting my profile!
